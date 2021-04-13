@@ -1,0 +1,9 @@
+README.md
+setup.py
+papalib/__init__.py
+papalib/papalib.py
+papalib.egg-info/PKG-INFO
+papalib.egg-info/SOURCES.txt
+papalib.egg-info/dependency_links.txt
+papalib.egg-info/not-zip-safe
+papalib.egg-info/top_level.txt
