@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='papalib',
       version='0.1',
-      url='',
+      url='https://github.com/henriquepapa/estrutura_papalib',
       license='MIT',
       author='Henrique Papa',
       author_email='Henrique Papa A. Fonseca',
